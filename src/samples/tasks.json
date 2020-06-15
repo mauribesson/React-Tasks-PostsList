@@ -1,0 +1,19 @@
+[{
+        "id": 0,
+        "title": "Tarea uno",
+        "description": "Revisar oendientes",
+        "done": false
+    },
+    {
+        "id": 1,
+        "title":"Tarea dos",
+        "description": "Coordinar actividades",
+        "done": false
+    },
+    {
+        "id": 2,
+        "title":"Tarea tres",
+        "description": "Asignar actividades",
+        "done": false
+    }
+]
